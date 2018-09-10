@@ -19,7 +19,6 @@ class Game {
     
     init(title: String) {
         self.title = title
-        
     }
 }
 
